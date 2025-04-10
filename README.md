@@ -9,4 +9,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=romjkeeee&show_icons=true&theme=dark&locale=en" alt="romjkeeee" />
 </p>
 
-<p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com?user=romjkeeee&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="romjkeeee" /> </p>
+<p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com?user=romjkeeee&theme=dark" alt="romjkeeee" /> </p>
